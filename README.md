@@ -1,2 +1,2 @@
 # FoodInflationAndWageGrowth
-Using SQL and R to analyze and visualize food inflation and wage growth in Indonesia from 2010 to 2021. 
+Using SQL and R to analyze and visualize food inflation and wage growth in Indonesia from 2010 to 2021. The visualization result can be seen [here](food_price_4.gif). The tables in the MySQL server are created by importing the data from [National Food Commodites Price.csv](National Food Commodites Price.csv) and [National Minimum Wage.csv](National Minimum Wage.csv). The [images](images) used for the visualization are downloaded from [Freepik](https://www.freepik.com/). You can see the complete code by downloading this [notebook](food_inflation_and_wage_growth.nb.html) and opening it on your browser.
